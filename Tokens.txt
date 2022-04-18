@@ -1,8 +1,5 @@
 Vicky: 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
-<<<<<<< HEAD
 Flavia: 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
-=======
 Rivas: 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 
 MDL: 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
->>>>>>> c781b14dbf676ef62edb038ebfb14fe308301cdf
 
